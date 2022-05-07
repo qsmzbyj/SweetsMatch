@@ -1,1 +1,3 @@
-# SweetsMatch
+# 甜品消消乐
+这是一个简易的消消乐游戏
+game目录下是游戏应用  unity_code目录下的是工程源码
